@@ -507,7 +507,8 @@ if not CUSTOM_MODE:
 	input_character = get_character(root, character_number, character_variation)
 	move_character(input_character, all_hunters)
 	move_character(hunter_deinonychus, input_character)
-	exit()
+else:
+	pass
 
 # Any code that you add here will only be run in custom mode
 
