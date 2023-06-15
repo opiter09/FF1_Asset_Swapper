@@ -1,3 +1,5 @@
+This should be obvious since this is a fork, but all the first-person pronouns below refer to simonomi, not me.
+
 # FF1 Asset Swapper
 
 Hey! this is a tool I made to swap asset files in FF1.
